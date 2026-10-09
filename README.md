@@ -1,4 +1,4 @@
-# -zepto-inventory-optimization-sql
+ZEPTO INVENTORY SQL PORTFOLIO
 
 
 
