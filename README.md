@@ -1,6 +1,8 @@
 # -zepto-inventory-optimization-sql
-# Zepto Inventory Optimization & Supply Chain Analytics (SQL)
 
+
+
+# Dark-Store Inventory Optimization Engine
 A data-driven SQL optimization project analyzing real-time dark store inventory, auditing financial metrics, and automating stock replenishment strategies for a **10-minute quick-commerce business model (Zepto)**.
 
 ---
